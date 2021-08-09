@@ -4,7 +4,7 @@ Transform is a desktop JavaFX application that allows to anonymize a large numbe
 ## Execute GT-PDF-Transform
 GT-PDF-Transform comes with an installation program. Depending on the platform the installation is easier or a bit more complicated. The application is not signed, which more or less causes difficulties.
 
-### Ubuntu
+### Ubuntu für AMD64 platform
 Download the latest **Ubunutu Build** of [GT-PDF-Transform](//github.com/grafioschtrader/gt-pdf-transform/releases/tag/Ubuntu-latest). In the download directory execute the following command:
 ```
 # Replace XX.XX... with your downloaded build
